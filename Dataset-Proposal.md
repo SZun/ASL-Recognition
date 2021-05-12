@@ -1,4 +1,4 @@
-#Dataset Proposal
+# Dataset Proposal
 
 * [ASL Dataset With Words](https://www.kaggle.com/belalelwikel/asl-and-some-words)
 
